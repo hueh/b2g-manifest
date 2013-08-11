@@ -100,6 +100,7 @@
   <!-- Xperia U things -->
   <project path="device/sony/kumquat" name="android_device_sony_kumquat-1" remote="hueh" revision="ics"/>
   <project path="device/sony/montblanc-common" name="android_device_sony_montblanc-common-1" remote="hueh" revision="ics"/>
+  <project path="vendor/sony" name="proprietary_vendor_sony" remote="hueh" revision="ics"/>
 
   <project path="kernel/sony/u8500" name="sony-kernel-u8500" remote="hueh" revision="ics"/>
    <project path="external/skia" name="skia-b2g-sgs2" remote="b2g" revision="e2d7caf0363dec74d77f7e7adbe5b4cce0c6524c" upstream="v1-train"/>
