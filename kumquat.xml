@@ -64,12 +64,11 @@
 
   <!-- Linaro -->
   <project path="external/gtest" name="platform/external/gtest" remote="linaro" revision="344e5f3db17615cc853073a02968a603efd39109"/>
-
+  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" revision="966afbd88f0bfc325bf80274ad2723c238883fa1"/>
   <!-- CyanogenMod -->
   <project path="bionic" name="android_bionic" />
   <project path="bootable/recovery" name="android_bootable_recovery" />
   <project path="development" name="android_development" />
-  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" revision="966afbd88f0bfc325bf80274ad2723c238883fa1"/>
   <project path="external/bluetooth/glib" name="android_external_bluetooth_glib" />
   <project path="external/bluetooth/hcidump" name="android_external_bluetooth_hcidump" />
   <project path="external/bsdiff" name="android_external_bsdiff" />
