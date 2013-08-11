@@ -79,7 +79,7 @@
   <project path="external/yaffs2" name="platform/external/yaffs2" revision="6232e2d5ab34a40d710e4b05ab0ec6e3727804e7"/>
   <project path="external/genext2fs" name="platform_external_genext2fs" remote="sola" revision="master"/>
   <project path="external/e2fsprogs" name="platform_external_e2fsprogs" remote="sola" revision="master"/>
-  <project path="frameworks/base" name="android_frameworks_base" remote="cm" revision="ics"/>
+  <project path="frameworks/base" name="android_frameworks_base" revision="d45de85fe90ff18207f6b129b2d3063c6b51d43b" />
   <project path="frameworks/opt/emoji" name="platform/frameworks/opt/emoji" revision="a95d8db002770469d72dfaf59ff37ac96db29a87"/>
   <project path="frameworks/support" name="platform/frameworks/support" revision="bfc8e01b7b0d5ea70ce89d0409b72b7f7d540f43"/>
   <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="ics"/>
